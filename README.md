@@ -5,8 +5,8 @@
 **A research and documentation study on Generative AI, exploring ChatGPT's technology, applications, and influence across Education, IT, Healthcare, and Cybersecurity**
 
 
-<img width="525" height="500" alt="image" src="https://github.com/user-attachments/assets/9ed14aca-2b1f-4b7f-b0da-e38e6f77b8ae" />
-<img width="525" height="500" alt="image" src="https://github.com/user-attachments/assets/2af00290-e48f-4d61-8823-2191bfb26e98" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9ed14aca-2b1f-4b7f-b0da-e38e6f77b8ae" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2af00290-e48f-4d61-8823-2191bfb26e98" />
 
 </div>
 
