@@ -6,7 +6,6 @@
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9ed14aca-2b1f-4b7f-b0da-e38e6f77b8ae" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2af00290-e48f-4d61-8823-2191bfb26e98" />
 
 </div>
 
@@ -87,6 +86,10 @@ Future research may focus on:
 ## 📂 Documentation
 
 This repository serves as a **research and educational resource** for understanding the role of **ChatGPT in modern technology and society**. Readers are encouraged to explore the complete report for detailed analysis, findings, and references.
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2af00290-e48f-4d61-8823-2191bfb26e98" />
+
 
 ---
 
